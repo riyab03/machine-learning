@@ -1,0 +1,30 @@
+Logistic Regression Accuracy (training): 0.9475
+Logistic Regression Accuracy (testing): 0.955
+Logistic Regression Precision (testing): 0.9568964530892446
+Logistic Regression Recall (testing): 0.955
+Logistic Regression F1-Score (testing): 0.9548751446424438
+
+Naive Bayes Accuracy (training): 0.845
+Naive Bayes Accuracy (testing): 0.81
+Naive Bayes Precision: 0.8065569620253165
+Naive Bayes Recall: 0.81
+Naive Bayes F1 Score: 0.8072525062656642
+
+Random Forest Accuracy (training): 0.98875
+Random Forest Accuracy (testing): 0.995
+Random Forest Precision: 0.9950746268656716
+Random Forest Recall: 0.995
+Random Forest F1 Score: 0.9949981358354565
+
+SVM Accuracy (training): 0.9925
+SVM Accuracy (testing): 0.98
+SVM Precision: 0.9811428571428571
+SVM Recall: 0.98
+SVM F1 Score: 0.9799551345962114
+
+KNN Accuracy (training): 0.99375
+KNN Accuracy (testing): 0.975
+KNN Precision: 0.9768939393939394
+KNN Recall: 0.975
+KNN F1 Score: 0.975
+
